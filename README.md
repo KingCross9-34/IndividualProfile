@@ -1,1 +1,1 @@
-# PrivateProfile
+# IndividualProfile
